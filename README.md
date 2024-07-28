@@ -1,9 +1,9 @@
 It's merely a stub.
 
 - 👋 Hi, I’m @LorumaL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI image generation & MC:JE jarmodding
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on MC webseries or ARGs
 - 📫 `@lorumaarchivist` on Discord
 
 <!---
